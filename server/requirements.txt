@@ -1,0 +1,5 @@
+watchdog
+Flask
+flask-cors
+https://github.com/duvanoff/simple_flask-master/archive/master.zip
+https://github.com/duvanoff/simple_flask_blueprint/archive/master.zip
