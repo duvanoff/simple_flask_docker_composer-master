@@ -18,4 +18,3 @@ RUN apt-get -y install unzip
 RUN wget https://github.com/duvanoff/simple_flask_ui-master/archive/master.zip
 RUN unzip master.zip
 RUN mv simple_flask_ui-master/ /var/www/html/simple_flask_ui
-RUN chmod +x simple_flask_ui-master/ && /var/www/html/simple_flask_ui
